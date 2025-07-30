@@ -1,0 +1,161 @@
+.explore{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+}
+
+input{
+    margin: 10px 0px 0px;
+    height: 15px;
+    width: 150px;
+    /* font-size: 10px; */
+    /* background-color: rgb(138, 135, 135); */
+    color:white;
+    
+}
+
+.logo>img{
+    border-radius: 100px;
+    background-color: black;
+}
+button{
+    background-color: red;
+    color: #fdf8f8;
+}
+
+.main{
+    background-color: rgb(77, 66, 66);
+    text-align: center;
+    padding-top:70px ;
+    height: 650px;
+    
+}
+.h{
+    color: white;
+}
+
+.text{
+    height: 300px;
+    width: 320px;
+    color: white;
+    /* word-spacing: 30px; */
+    font-size: 20px;
+}
+
+.miss{
+    display: flex;
+    padding: 40px;
+    justify-content: space-evenly;
+
+}
+
+.text1{
+    height: 300px;
+    width: 320px;
+    color: white;
+    font-size: 20px;
+}
+
+.featured{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.sa{
+    height: 400px;
+    width: 650px;
+}
+
+.ha{
+    height: 400px;
+    width: 350px;
+}
+
+.ma{
+    height: 200px;
+    width: 350px;
+    align-items: stretch;
+    display: flex;
+    justify-content: space-between;
+}
+
+.space{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 50px 0px;
+}
+
+.ma{
+    margin: 0px 10px 10px;
+}
+
+.cir1{
+    border-radius: 500px;
+    height: 100px;
+    width: 100px;
+    margin: 10px 50px 20px; 
+     
+}
+.circle1{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.cir2{
+    border-radius: 500px;
+    height: 100px;
+    width: 100px;
+    margin: 10px 50px 20px; 
+     
+}
+
+.circle2{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.cir3{
+    border-radius: 500px;
+    height: 100px;
+    width: 100px;
+    margin: 10px 50px 20px; 
+     
+}
+
+.circle3{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.cir4{
+    border-radius: 500px;
+    height: 100px;
+    width: 100px;
+    margin: 10px 50px 20px; 
+     
+}
+
+.circle4{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.circle{
+    display: flex;
+
+}
+
+
+.full1{
+    width: 2000px;
+}
